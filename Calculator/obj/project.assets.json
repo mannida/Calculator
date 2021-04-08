@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GIT\\Training\\Calculator\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "C:\\GIT\\Calculator\\Calculator\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "C:\\GIT\\Training\\Calculator\\Calculator\\Calculator.csproj",
+      "projectPath": "C:\\GIT\\Calculator\\Calculator\\Calculator.csproj",
       "packagesPath": "C:\\Users\\dmanning\\.nuget\\packages\\",
-      "outputPath": "C:\\GIT\\Training\\Calculator\\Calculator\\obj\\",
+      "outputPath": "C:\\GIT\\Calculator\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
