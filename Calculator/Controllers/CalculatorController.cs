@@ -20,10 +20,10 @@ namespace Calculator.Controllers
         }
 
         [HttpGet]
-        public double Add2()
+        public double Add(int input1, int input2)
         {
-            int input1 = 8;
-            int input2 = 15;
+            input1 = 8;
+            input2 = 15;
 
             var sum = (input1 + input2);
 
